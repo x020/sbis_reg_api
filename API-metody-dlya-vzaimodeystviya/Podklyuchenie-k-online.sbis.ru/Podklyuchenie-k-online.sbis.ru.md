@@ -2,18 +2,18 @@
 Алгоритм подключения клиента к online.sbis.ru
 
     Завести организацию в базе Биллинга, если её ещё нет, и определить её идентификатор:
-    [Contractor.FindOrCreate](../Работа с клиентами/Contractor.FindOrCreate.md) (Реквизиты_контрагента)
+    [Contractor.FindOrCreate](../Rabota-s-klientami/Contractor.FindOrCreate.md) (Реквизиты_контрагента)
 
     Определить список аккаунтов, в которые входит данная организация:
-    [Contractor.InfoByID](../Работа с клиентами/Contractor.InfoByID.md) (ID_контрагента)
+    [Contractor.InfoByID](../Rabota-s-klientami/Contractor.InfoByID.md) (ID_контрагента)
 
     Если в этом списке нет подходящего аккаунта, создать новый:
-    [Contractor.CreateWithAccount](../Работа с клиентами/Contractor.CreateWithAccount.md) (Реквизиты_Контрагента, True )
+    [Contractor.CreateWithAccount](../Rabota-s-klientami/Contractor.CreateWithAccount.md) (Реквизиты_Контрагента, True )
 
     Если необходимо, добавить в аккаунт другие организации:
-    [Account.AddContractor](../Работа с клиентами/Account.AddContractor.md) (ID_аккаунта, Реквизиты_контрагента)
+    [Account.AddContractor](../Rabota-s-klientami/Account.AddContractor.md) (ID_аккаунта, Реквизиты_контрагента)
     или, если контрагент с указанными реквизитами уже есть в Биллинге и его идентификатор известен:
-    [Account.AddContractorByID](../Работа с клиентами/Account.AddContractorByID.md) (ID_аккаунта, ID_контрагента).
+    [Account.AddContractorByID](../Rabota-s-klientami/Account.AddContractorByID.md) (ID_аккаунта, ID_контрагента).
 
 Далее возможны следующие варианты действий.
 Вариант 1
