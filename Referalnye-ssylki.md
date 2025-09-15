@@ -5,7 +5,7 @@
 ## Код для вставки реферальной ссылки, ведущей на страницу регистрации
 
 ```html
-<a href="https://online.sbis.ru/auth/?tab=register&agent={КОД_ТОЧКИ_ПРОДАЖ}" target="_blank">
+<a href="https://online.sbis.ru/auth/?tab=register&agent=2342" target="_blank">
     Получить электронные документы
 </a>
 ```
@@ -19,6 +19,6 @@
 Вы также можете привлекать потенциальных клиентов на страницу формирования заявки. Код для вставки реферальной ссылки на сайт:
 
 ```html
-<a href="https://sbis.ru/tenders/query?code={КОД_ТОЧКИ_ПРОДАЖ}" target="_blank">
+<a href="https://sbis.ru/tenders/query?code=2342" target="_blank">
     Получить электронные документы
 </a>

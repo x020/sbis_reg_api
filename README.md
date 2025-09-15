@@ -62,25 +62,25 @@ API использует протокол JSON-RPC 2.0 поверх HTTPS. Те�
 Все методы описаны в директории [API-metody-dlya-vzaimodeystviya](API-metody-dlya-vzaimodeystviya/API-metody-dlya-vzaimodeystviya.md).
 
 ### Основные разделы:
-- **[Rabota-s-klientami](API-metody-dlya-vzaimodeystviya/Rabota-s-klientami/Rabota-s-klientami.md)**: Создание аккаунтов, поиск контрагентов, контактные данные.
-- **[Закрепление клиентов](API-metody-dlya-vzaimodeystviya/Закрепление клиентов/Закрепление клиентов.md)**: Перепривязка аккаунтов и контрагентов.
-- **[Работа с госорганами](API-metody-dlya-vzaimodeystviya/Работа с госорганами/Работа с госорганами.md)**: Подключение сертификатов, инспекций.
-- **[Прайс действующих услуг](API-metody-dlya-vzaimodeystviya/Прайс действующих услуг/Прайс действующих услуг.md)**: Доступные сервисы.
-- **[Работа с лицензиями](API-metody-dlya-vzaimodeystviya/Работа с лицензиями/Работа с лицензиями.md)**: Создание, активация, информация по лицензиям.
-- **[Работа с кассами ОФД](API-metody-dlya-vzaimodeystviya/Работа с кассами ОФД/Работа с кассами ОФД.md)**: Привязка ККТ к лицензиям.
-- **[Интеграция с внешними системами](API-metody-dlya-vzaimodeystviya/Интеграция с внешними системами/Интеграция с внешними системами.md)**: История изменений (Billing.GetHistory).
-- **[Подключение к online.sbis.ru](API-metody-dlya-vzaimodeystviya/Подключение к online.sbis.ru/Подключение к online.sbis.ru.md)**: Подготовка кабинетов, приглашения.
-- **[Подключение к СБИС 2](API-metody-dlya-vzaimodeystviya/Подключение к СБИС 2.md)**: Интеграция с СБИС 2.4.
+- **[Работа с клиентами](API-metody-dlya-vzaimodeystviya/Rabota-s-klientami/Rabota-s-klientami.md)**: Создание аккаунтов, поиск контрагентов, контактные данные.
+- **[Закрепление клиентов](API-metody-dlya-vzaimodeystviya/Zakreplenie-klientov/Zakreplenie-klientov.md)**: Перепривязка аккаунтов и контрагентов.
+- **[Работа с госорганами](API-metody-dlya-vzaimodeystviya/Rabota-s-gosorganami/Rabota-s-gosorganami.md)**: Подключение сертификатов, инспекций.
+- **[Прайс действующих услуг](API-metody-dlya-vzaimodeystviya/Prais-deystvuyushchih-uslug/Prais-deystvuyushchih-uslug.md)**: Доступные сервисы.
+- **[Работа с лицензиями](API-metody-dlya-vzaimodeystviya/Rabota-s-licenziyami/Rabota-s-licenziyami.md)**: Создание, активация, информация по лицензиям.
+- **[Работа с кассами ОФД](API-metody-dlya-vzaimodeystviya/Rabota-s-kassami-OFD/Rabota-s-kassami-OFD.md)**: Привязка ККТ к лицензиям.
+- **[Интеграция с внешними системами](API-metody-dlya-vzaimodeystviya/Integraciya-s-vneshnimi-sistemami/Integraciya-s-vneshnimi-sistemami.md)**: История изменений (Billing.GetHistory).
+- **[Подключение к online.sbis.ru](API-metody-dlya-vzaimodeystviya/Podklyuchenie-k-online.sbis.ru/Podklyuchenie-k-online.sbis.ru.md)**: Подготовка кабинетов, приглашения.
+- **[Подключение к СБИС 2](API-metody-dlya-vzaimodeystviya/Podklyuchenie-k-SBIS-2.md)**: Интеграция с СБИС 2.4.
 
 Полный список методов: [API-metody-dlya-vzaimodeystviya](API-metody-dlya-vzaimodeystviya/API-metody-dlya-vzaimodeystviya.md)
 
 ## Примеры использования
 
 Примеры реализации на:
-- [Python](API-metody-dlya-vzaimodeystviya/Примеры использования API/Пример использования партнерского API на Python.md)
-- [NodeJS](API-metody-dlya-vzaimodeystviya/Примеры использования API/Пример использования партнерского API на NodeJS.md)
+- [Python](API-metody-dlya-vzaimodeystviya/Primery-ispolzovaniya-API/Primer-ispolzovaniya-partnerskogo-API-na-Python.md)
+- [NodeJS](API-metody-dlya-vzaimodeystviya/Primery-ispolzovaniya-API/Primer-ispolzovaniya-partnerskogo-API-na-NodeJS.md)
 
-Общий обзор примеров: [Примеры использования API](API-metody-dlya-vzaimodeystviya/Примеры использования API/Примеры использования API.md)
+Общий обзор примеров: [Примеры использования API](API-metody-dlya-vzaimodeystviya/Primery-ispolzovaniya-API/Primery-ispolzovaniya-API.md)
 
 ## Реферальные ссылки
 
@@ -88,7 +88,7 @@ API использует протокол JSON-RPC 2.0 поверх HTTPS. Те�
 - Регистрация: `https://online.sbis.ru/auth/?tab=register&agent={КОД_ТОЧКИ_ПРОДАЖ}`
 - Заявка: `https://sbis.ru/tenders/query?code={КОД_ТОЧКИ_ПРОДАЖ}`
 
-Подробности: [Реферальные ссылки](реферальные-ссылки.md)
+Подробности: [Реферальные ссылки](Referalnye-ssylki.md)
 
 ## История изменений
 

@@ -1,7 +1,7 @@
 Закрепление клиентов
 
-    Информация о партнерах и сотрудниках - [Partner.StaffList](Partner.StaffList.md)
-    Список тем для закрепления - [AssignmentTheme.List](AssignmentTheme.List.md)
-    Закрепление аккаунта за сотрудником - [Account.ReassignByID](Account.ReassignByID.md), [Account.ReassignByLogin](Account.ReassignByLogin.md)
-    Закрепление аккаунта по теме - [Account-ReassignThemeByID](Account-ReassignThemeByID.md), [Account.ReassignThemeByLogin](Account.ReassignThemeByLogin.md)
-    Закрепление контрагента за сотрудником - [Contractor.ReassignByID](Contractor.ReassignByID.md), [Contractor.ReassignByLogin](Contractor.ReassignByLogin.md)
+    Информация о партнерах и сотрудниках - [Partner.StaffList](Partner-StaffList.md)
+    Список тем для закрепления - [AssignmentTheme.List](AssignmentTheme-List.md)
+    Закрепление аккаунта за сотрудником - [Account.ReassignByID](Account-ReassignByID.md), [Account.ReassignByLogin](Account-ReassignByLogin.md)
+    Закрепление аккаунта по теме - [Account.ReassignThemeByID](Account-ReassignThemeByID.md), [Account.ReassignThemeByLogin](Account-ReassignThemeByLogin.md)
+    Закрепление контрагента за сотрудником - [Contractor.ReassignByID](Contractor-ReassignByID.md), [Contractor.ReassignByLogin](Contractor-ReassignByLogin.md)

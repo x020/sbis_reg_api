@@ -10,8 +10,8 @@ API-интерфейс позволяет в CRM-системе:
 - [создавать новые аккаунты и добавлять клиентов](API-metody-dlya-vzaimodeystviya/Rabota-s-klientami/Rabota-s-klientami.md);
 - [получать информацию о госорганах и подключать направления сдачи](API-metody-dlya-vzaimodeystviya/Работа с госорганами/Работа с госорганами.md);
 - [добавлять и активировать лицензии](API-metody-dlya-vzaimodeystviya/Работа с лицензиями/Работа с лицензиями.md);
-- [подключать клиентов к системе электронной отчетности СБИС 2.4](API-metody-dlya-vzaimodeystviya/Подключение к СБИС 2.md);
-- [подключать клиентов к online.sbis.ru](API-metody-dlya-vzaimodeystviya/Подключение к online.sbis.ru/Подключение к online.sbis.ru.md) (по приглашению из биллинга или по сертификату клиента).
+- [подключать клиентов к системе электронной отчетности СБИС 2.4](API-metody-dlya-vzaimodeystviya/Podklyuchenie-k-SBIS-2.md);
+- [подключать клиентов к online.sbis.ru](API-metody-dlya-vzaimodeystviya/Podklyuchenie-k-online.sbis.ru/Podklyuchenie-k-online.sbis.ru.md) (по приглашению из биллинга или по сертификату клиента).
 
 Для взаимодействия с сервисом reg.tensor.ru посредством данного API необходимо:
 
